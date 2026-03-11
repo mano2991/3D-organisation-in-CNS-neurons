@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this pipeline in your research, please cite it using the metadata below."
+
+title: "3D Chromatin Organization in CNS Neurons: Hi-C Data Analysis Across Developmental and Injury States"
+version: 1.0.0
+date-released: 2026-01-01
+
+authors:
+  - family-names: "[Last Name]"
+    given-names: "[First Name]"
+    affiliation: "[Your Institution]"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # optional
+
+repository-code: "https://github.com/<your-username>/<repo-name>"
+license: MIT
+
+abstract: >
+  A comprehensive computational pipeline for analyzing three-dimensional chromatin
+  organization in CNS neurons using Hi-C sequencing data. The pipeline covers
+  A/B compartment analysis, TAD calling, chromatin loop calling, and pairwise
+  differential comparison across developmental stages (E12.5, P0, Adult) and
+  neuronal injury conditions. Built on HOMER with custom R scripts for annotation
+  and visualization.
+
+keywords:
+  - Hi-C
+  - 3D genome
+  - chromatin organization
+  - TAD
+  - chromatin loops
+  - A/B compartments
+  - CNS neurons
+  - neuronal development
+  - neuronal injury
+  - bioinformatics
+  - mm10
+  - HOMER
