@@ -301,8 +301,8 @@ And the underlying tools:
 
 For questions or issues, please open a [GitHub Issue](../../issues) or contact:
 
-**[Your Name]** — [your.email@institution.edu]  
-[Your Lab / Institution]
+**[manojkumar]** — [manojkumarbioinfo@gmail.com]  
+[https://venkateshlab.science/]
 
 ---
 
