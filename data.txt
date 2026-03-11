@@ -1,0 +1,11 @@
+# HiC Pipeline Sample Sheet
+# Columns (tab-separated): SampleName  ComparisonGroup  R1_fastq  R2_fastq
+# Samples sharing the same ComparisonGroup will be compared pairwise.
+#
+# Example: "1vs2" groups two samples → they get compared to each other
+#          "2vs3" groups a different pair → compared separately
+#
+HiC-P0	1vs2	/data/HiC_P0_R1.fastq.gz	/data/HiC_P0_R2.fastq.gz
+HiC-7dpi	1vs2	/data/HiC_7dpi_R1.fastq.gz	/data/HiC_7dpi_R2.fastq.gz
+HiC-Uninj	2vs3	/data/HiC_Uninj_R1.fastq.gz	/data/HiC_Uninj_R2.fastq.gz
+HiC-14dpi	2vs3	/data/HiC_14dpi_R1.fastq.gz	/data/HiC_14dpi_R2.fastq.gz
